@@ -1,0 +1,10 @@
+*{
+    align-items: auto
+}
+
+.self{
+    color: red;
+    background-color: blue;
+    align-items: center;
+    
+}
